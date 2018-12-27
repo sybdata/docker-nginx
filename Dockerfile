@@ -143,4 +143,4 @@ EXPOSE 80
 
 STOPSIGNAL SIGTERM
 
-CMD ["nginx"]
+CMD ["nginx", "-g", "daemon off;"]
