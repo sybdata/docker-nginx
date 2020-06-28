@@ -1,0 +1,47 @@
+﻿#EXTM3U url-tvg="http://iptvx.one/EPG"
+#EXTINF:-1 tvg-id="animal-planet",Animal Planet HD
+http://live-ng-01.more.tv/hls/Animal_Planet_HD/master.m3u8
+#EXTINF:-1 tvg-id="cartoon-network",Cartoon Network HD
+http://live-ng-01.more.tv/hls/Cartoon_Network_HD/master.m3u8
+#EXTINF:-1 tvg-id="da-vinci",Da Vinci
+http://live-ng-01.more.tv/hls/Da_Vinci/master.m3u8
+#EXTINF:-1 tvg-id="discovery-channel",Discovery Channel HD
+http://live-ng-01.more.tv/hls/Discovery_HD/master.m3u8
+#EXTINF:-1 tvg-id="discovery-science",Discovery Science HD
+http://live-ng-01.more.tv/hls/Discovery_Science_HD/master.m3u8
+#EXTINF:-1 tvg-id="eurosport1-ru",Eurosport 1 HD
+http://live-ng-01.more.tv/hls/Eurosport_Rus_HD/master.m3u8
+#EXTINF:-1 tvg-id="fox",Fox HD
+http://live-ng-01.more.tv/hls/FOX_HD/master.m3u8
+#EXTINF:-1 tvg-id="foxlife",Fox Life HD
+http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
+#EXTINF:-1 tvg-id="national-geographic",National Geographic HD
+http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
+#EXTINF:-1 tvg-id="tlc",TLC HD
+http://live-ng-01.more.tv/hls/TLC_Russia_HD/master.m3u8
+#EXTINF:-1 tvg-id="tv1000",TV1000 HD
+http://live-ng-01.more.tv/hls/TV1000_HD/master.m3u8
+#EXTINF:-1 tvg-id="tv1000-action",TV1000 Action HD
+http://live-ng-01.more.tv/hls/TV1000_Action_HD/master.m3u8
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino",TV1000 Русское Кино HD
+http://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/master.m3u8
+#EXTINF:-1 tvg-id="viasat-explore",Viasat Explore HD
+http://live-ng-01.more.tv/hls/Viasat_Explore_HD/master.m3u8
+#EXTINF:-1 tvg-id="viasat-history",Viasat History HD
+http://live-ng-01.more.tv/hls/Viasat_History_HD/master.m3u8
+#EXTINF:-1 tvg-id="viasat-nature",Viasat Nature HD
+http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
+#EXTINF:-1 tvg-id="viasat-sport",Viasat Sport HD
+http://live-ng-01.more.tv/hls/Viasat_Sport_HD/master.m3u8
+#EXTINF:-1 tvg-id="vip-comedy",ViP Comedy HD
+http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8
+#EXTINF:-1 tvg-id="vip-megahit",ViP Megahit HD
+http://live-ng-01.more.tv/hls/ViP_Megahit_HD/master.m3u8
+#EXTINF:-1 tvg-id="vip-premiere",ViP Premiere HD
+http://live-ng-01.more.tv/hls/ViP_Premiere_HD/master.m3u8
+#EXTINF:-1 tvg-id="vip-serial",ViP Serial HD
+http://live-ng-01.more.tv/hls/VIP_SERIAL/master.m3u8
+#EXTINF:-1 tvg-id="ufc",UFC HD
+http://live-ng-01.more.tv/hls/UFC/master.m3u8
+#EXTINF:-1 tvg-id="sts-kids-hd",СТС Kids HD
+http://live-ng-01.more.tv/hls/CTC_Kids/master.m3u8
