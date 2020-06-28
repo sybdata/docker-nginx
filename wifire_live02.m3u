@@ -1,0 +1,445 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Развлекательные",2x2
+http://live02-cdn.tv.ti.ru:80/dtv/id105_NBN_SG--2x2/03/plst.m3u8
+#EXTINF:-1 group-title="Информационные",360 Новости
+http://live02-cdn.tv.ti.ru:80/dtv/id743_NBN_SG--360novosti/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",360 Подмосковье HD
+http://live02-cdn.tv.ti.ru:80/dtv/id1272_NBN_SG--360HD_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",5 Канал
+http://live02-cdn.tv.ti.ru:80/dtv/id256_NBN_SG--5kanal/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",7ТВ
+http://live02-cdn.tv.ti.ru:80/dtv/id700_NBN_SG--7TV/01/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",8 Канал
+http://live02-cdn.tv.ti.ru:80/dtv/id290_NBN_SG--8kanal/03/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",AIVA HD
+http://live02-cdn.tv.ti.ru/dtv/id1208_NBN_SG--AIVAHD_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Детские",Ani
+http://live02-cdn.tv.ti.ru:80/dtv/id416_NBN_SG--ANI/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal Planet HD
+http://live02-cdn.tv.ti.ru:80/dtv/id112_NBN_SG--AnimalPlannetHD/04/plst.m3u8
+#EXTINF:-1 group-title="Национальные",Arirang
+http://live02-cdn.tv.ti.ru:80/dtv/id752_NBN_SG--Arirang/03/plst.m3u8
+#EXTINF:-1 group-title="Детские",Baby TV
+http://live02-cdn.tv.ti.ru:80/dtv/id381_NBN_SG--BabyTV/03/plst.m3u8
+#EXTINF:-1 group-title="Для Взрослых",Barely Legal
+http://live02-cdn.tv.ti.ru:80/dtv/id706_NBN_SG--BarelyLegal/03/plst.m3u8
+#EXTINF:-1 group-title="Детские",Boomerang
+http://live02-cdn.tv.ti.ru:80/dtv/id142_NBN_SG--boomerang/03/plst.m3u8
+#EXTINF:-1 group-title="Для Взрослых",Brazzers TV Europe
+http://live02-cdn.tv.ti.ru:80/dtv/id358_NBN_SG--Brazzers/03/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Classic
+http://live02-cdn.tv.ti.ru:80/dtv/id1142_NBN_SG--BridgeClassic/03/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Hits
+http://live02-cdn.tv.ti.ru:80/dtv/id140_NBN_SG--dangetv/03/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Русский Хит
+http://live02-cdn.tv.ti.ru:80/dtv/id161_NBN_SG--RusSong/03/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge TV
+http://live02-cdn.tv.ti.ru:80/dtv/id207_NBN_SG--BridgeTV/03/plst.m3u8
+#EXTINF:-1 group-title="Детские",Cartoon Network
+http://live02-cdn.tv.ti.ru:80/dtv/id141_NBN_SG--cartoon/03/plst.m3u8
+#EXTINF:-1 group-title="Национальные",CCTV4
+http://live02-cdn.tv.ti.ru:80/dtv/id1329_NBN_SG--CCTV4/03/plst.m3u8
+#EXTINF:-1 group-title="Национальные",CGTN Русский
+http://live02-cdn.tv.ti.ru:80/dtv/id1327_NBN_SG--CGTNRus/03/plst.m3u8
+#EXTINF:-1 group-title="Национальные",CGTN
+http://live02-cdn.tv.ti.ru:80/dtv/id1326_NBN_SG--CGTN/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Cinema
+http://live02-cdn.tv.ti.ru:80/dtv/id1258_NBN_SG--CinemaTV/03/plst.m3u8
+#EXTINF:-1 group-title="Информационные",CNN International
+http://live02-cdn.tv.ti.ru:80/dtv/id388_NBN_SG--CNN/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Channel HD
+http://live02-cdn.tv.ti.ru:80/dtv/id247_NBN_SG--DiscoveryChannelHD/04/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Science HD
+http://live02-cdn.tv.ti.ru:80/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",DTX
+http://live02-cdn.tv.ti.ru:80/dtv/id204_NBN_SG--DiscoveryWorld/03/plst.m3u8
+#EXTINF:-1 group-title="Национальные",DW
+http://live02-cdn.tv.ti.ru:80/dtv/id217_NBN_SG--DW/03/plst.m3u8
+#EXTINF:-1 group-title="Образовательные",English Club
+http://live02-cdn.tv.ti.ru:80/dtv/id530_NBN_SG--EnglishClub/03/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",Europa Plus TV HD
+http://live02-cdn.tv.ti.ru:80/dtv/id795_NBN_SG--europaplushd/01/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Eurosport 1 HD
+http://live02-cdn.tv.ti.ru:80/dtv/id219_NBN_SG--EuroSportHD/04/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
+http://live02-cdn.tv.ti.ru:80/dtv/id340_NBN_SG--Eurosport2HD/04/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Extreme Sports
+http://live02-cdn.tv.ti.ru:80/dtv/id213_NBN_SG--ExtremeSport/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",FAN HD
+http://live02-cdn.tv.ti.ru:80/dtv/id889_NBN_SG--FANHD/04/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Fashion TV
+http://live02-cdn.tv.ti.ru:80/dtv/id713_NBN_SG--fashiontv/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Fox HD
+http://live02-cdn.tv.ti.ru:80/dtv/id376_NBN_SG--Fox_HD/04/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Fox Life HD
+http://live02-cdn.tv.ti.ru:80/dtv/id375_NBN_SG--Fox_Life_HD/04/plst.m3u8
+#EXTINF:-1 group-title="Информационные",France24 HD
+http://live02-cdn.tv.ti.ru:80/dtv/id216_NBN_SG--France24/04/plst.m3u8
+#EXTINF:-1 group-title="Детские",Gulli Girl
+http://live02-cdn.tv.ti.ru:80/dtv/id192_NBN_SG--Gulli/03/plst.m3u8
+#EXTINF:-1 group-title="Национальные",Iнтер+
+http://live02-cdn.tv.ti.ru:80/dtv/id501_NBN_SG--interplus/03/plst.m3u8
+#EXTINF:-1 group-title="Детские",JimJam
+http://live02-cdn.tv.ti.ru:80/dtv/id249_NBN_SG--JimJam/03/plst.m3u8
+#EXTINF:-1 group-title="Национальные",Kazakh TV HD
+http://live02-cdn.tv.ti.ru/dtv/id1177_NBN_SG--KazahTV_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Национальные",KBS World
+http://live02-cdn.tv.ti.ru:80/dtv/id770_NBN_SG--kbsworld/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Luxury HD
+http://live02-cdn.tv.ti.ru/dtv/id1181_NBN_SG--LuxuryHD_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Luxury
+http://live02-cdn.tv.ti.ru:80/dtv/id1087_NBN_SG--LuxurySD/03/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",M-1 Global
+http://live02-cdn.tv.ti.ru:80/dtv/id1068_NBN_SG--M1global/03/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV Dance
+http://live02-cdn.tv.ti.ru:80/dtv/id211_NBN_SG--MTVDance/03/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV Hits
+http://live02-cdn.tv.ti.ru:80/dtv/id210_NBN_SG--MTVHits/03/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV Live HD
+http://live02-cdn.tv.ti.ru:80/dtv/id409_NBN_SG--MTV_Live_HD/04/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV Rocks
+http://live02-cdn.tv.ti.ru:80/dtv/id212_NBN_SG--MTVRocks/03/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV Россия HD
+http://live02-cdn.tv.ti.ru:80/dtv/id231_NBN_SG--MTVHD/04/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",Musicbox Gold
+http://live02-cdn.tv.ti.ru:80/dtv/id220_NBN_SG--musicbox/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+http://live02-cdn.tv.ti.ru:80/dtv/id374_NBN_SG--NatGeo_Wild_HD/04/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
+http://live02-cdn.tv.ti.ru:80/dtv/id373_NBN_SG--Nat_Geo_HD/04/plst.m3u8
+#EXTINF:-1 group-title="Национальные",NHK World Japan HD
+http://live02-cdn.tv.ti.ru:80/dtv/id1299_NBN_SG--NHK_HD_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon HD
+http://live02-cdn.tv.ti.ru:80/dtv/id385_NBN_SG--Nickelodeon_HD/04/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",O2TV
+http://live02-cdn.tv.ti.ru:80/dtv/id504_NBN_SG--o2tvhd/01/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Ocean TV
+http://live02-cdn.tv.ti.ru:80/dtv/id129_NBN_SG--ocean/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Outdoor Channel
+http://live02-cdn.tv.ti.ru:80/dtv/id1122_NBN_SG--OutdoorSD/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Paramount Channel
+http://live02-cdn.tv.ti.ru:80/dtv/id986_NBN_SG--Paramount/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Paramount Comedy HD
+http://live02-cdn.tv.ti.ru:80/dtv/id275_NBN_SG--ParamountComedy/04/plst.m3u8
+#EXTINF:-1 group-title="Информационные",RT Arabic
+http://live02-cdn.tv.ti.ru:80/dtv/id1082_NBN_SG--RTarab/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",RTG
+http://live02-cdn.tv.ti.ru:80/dtv/id225_NBN_SG--RTG/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",RTД HD
+http://live02-cdn.tv.ti.ru:80/dtv/id357_NBN_SG--RTDHD/01/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",RU.TV HD
+http://live02-cdn.tv.ti.ru:80/dtv/id1280_NBN_SG--RUTV_HD/04/plst.m3u8
+#EXTINF:-1 group-title="Информационные",Russia Today HD
+http://live02-cdn.tv.ti.ru:80/dtv/id356_NBN_SG--RTHD/04/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",Russian Musicbox
+http://live02-cdn.tv.ti.ru:80/dtv/id208_NBN_SG--MusicBoxRU/02/plst.m3u8
+#EXTINF:-1 group-title="Региональные",Sochi Live HD
+http://live02-cdn.tv.ti.ru:80/dtv/id1138_NBN_SG--SochiLive/04/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Sony Channel HD
+http://live02-cdn.tv.ti.ru:80/dtv/id397_NBN_SG--SETHD/04/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Sony Sci-Fi
+http://live02-cdn.tv.ti.ru:80/dtv/id158_NBN_SG--SonySciFi/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Sony Turbo
+http://live02-cdn.tv.ti.ru:80/dtv/id157_NBN_SG--SonyTurbo/02/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Spike
+http://live02-cdn.tv.ti.ru:80/dtv/id505_NBN_SG--Spike/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",T24
+http://live02-cdn.tv.ti.ru:80/dtv/id108_NBN_SG--24Techno/03/plst.m3u8
+#EXTINF:-1 group-title="Детские",TiJi
+http://live02-cdn.tv.ti.ru:80/dtv/id531_NBN_SG--TiJi/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",TLC HD
+http://live02-cdn.tv.ti.ru:80/dtv/id151_NBN_SG--TLCHD/04/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",TVM Channel
+http://live02-cdn.tv.ti.ru:80/dtv/id750_NBN_SG--TVMchannel/03/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",VH1 Classic
+http://live02-cdn.tv.ti.ru:80/dtv/id146_NBN_SG--VH1Class/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",World Fashion Channel HD
+http://live02-cdn.tv.ti.ru/dtv/id1204_NBN_SG--WorldFashHD_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Zee-TV
+http://live02-cdn.tv.ti.ru:80/dtv/id273_NBN_SG--ZeeTV/02/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Авто 24
+http://live02-cdn.tv.ti.ru:80/dtv/id243_NBN_SG--Auto24/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Авто Плюс HD
+http://live02-cdn.tv.ti.ru:80/dtv/id1256_NBN_SG--AutoPlusHD_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Информационные",Беларусь 24
+http://live02-cdn.tv.ti.ru:80/dtv/id600_NBN_SG--belarus24/03/plst.m3u8
+#EXTINF:-1 group-title="Региональные",БелРос ТВ
+http://live02-cdn.tv.ti.ru:80/dtv/id117_NBN_SG--tro_souz/03/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Бокс ТВ
+http://live02-cdn.tv.ti.ru:80/dtv/id1266_NBN_SG--BoksTV/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Большая Азия
+http://live02-cdn.tv.ti.ru:80/dtv/id609_NBN_SG--BigAsia/03/plst.m3u8
+#EXTINF:-1 group-title="Региональные",БСТ (Уфа)
+http://live02-cdn.tv.ti.ru:80/dtv/id1319_NBN_SG--BST/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Время
+http://live02-cdn.tv.ti.ru:80/dtv/id1341_NBN_SG--Vremya/03/plst.m3u8
+#EXTINF:-1 group-title="Детские",Детский Мир
+http://live02-cdn.tv.ti.ru:80/dtv/id380_NBN_SG--Detskiy_mir/03/plst.m3u8
+#EXTINF:-1 group-title="Информационные",Дождь HD
+http://live02-cdn.tv.ti.ru:80/dtv/id1277_NBN_SG--DozhdHD/04/plst.m3u8
+#EXTINF:-1 group-title="Региональные",Дон 24
+http://vlg-live01-cdn.tv.ti.ru:80/dtv/id1197_REG_SG--vlg_don24/03/plst.m3u8
+#EXTINF:-1 group-title="Информационные",Дума ТВ
+http://live02-cdn.tv.ti.ru/dtv/id1307_NBN_SG--DumaTV_wflite/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",ЕвроКино
+http://live02-cdn.tv.ti.ru:80/dtv/id203_NBN_SG--EuroKino/03/plst.m3u8
+#EXTINF:-1 group-title="Информационные",Евроновости
+http://live02-cdn.tv.ti.ru:80/dtv/id260_NBN_SG--euronews/03/plst.m3u8
+#EXTINF:-1 group-title="Региональные",Енисей (Красноярск)
+http://live02-cdn.tv.ti.ru:80/dtv/id1331_NBN_SG--Enisey/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Жара HD
+http://live02-cdn.tv.ti.ru:80/dtv/id739_NBN_SG--ZharaHD/04/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Живая Планета
+http://live02-cdn.tv.ti.ru:80/dtv/id1071_NBN_SG--ZhivayaPlaneta/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Живая Природа HD
+http://live02-cdn.tv.ti.ru:80/dtv/id1348_NBN_SG--JivayaPriroda/04/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Живи!
+http://live02-cdn.tv.ti.ru:80/dtv/id144_NBN_SG--Zhivi/02/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Загородная Жизнь
+http://live02-cdn.tv.ti.ru:80/dtv/id371_NBN_SG--Zagorodnaya_zhizn/01/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Загородный
+http://live02-cdn.tv.ti.ru:80/dtv/id351_NBN_SG--usadba/03/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",Звезда
+http://live02-cdn.tv.ti.ru:80/dtv/id269_NBN_SG--zvezda/03/plst.m3u8
+#EXTINF:-1 group-title="Информационные",Известия HD
+http://live02-cdn.tv.ti.ru:80/dtv/id1275_NBN_SG--IzvestiaHD/04/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Иллюзион+
+http://live02-cdn.tv.ti.ru:80/dtv/id206_NBN_SG--IllusionPlus/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",История
+http://live02-cdn.tv.ti.ru:80/dtv/id136_NBN_SG--istoria/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Калейдоскоп ТВ
+http://live02-cdn.tv.ti.ru:80/dtv/id701_NBN_SG--Kaleydoskop/03/plst.m3u8
+#EXTINF:-1 group-title="Детские",Канал Disney
+http://live02-cdn.tv.ti.ru:80/dtv/id139_NBN_SG--disney/03/plst.m3u8
+#EXTINF:-1 group-title="Детские",Карусель
+http://live02-cdn.tv.ti.ru:80/dtv/id342_NBN_SG--Karusel/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",КВН ТВ
+http://live02-cdn.tv.ti.ru:80/dtv/id497_NBN_SG--kvntv/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Кино ТВ HD
+http://live02-cdn.tv.ti.ru:80/dtv/id1282_NBN_SG--KinoTVHD/04/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Кинокомедия
+http://live02-cdn.tv.ti.ru:80/dtv/id135_NBN_SG--komediya_tv/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Киномикс
+http://live02-cdn.tv.ti.ru:80/dtv/id411_NBN_SG--NTVKinoPlus/01/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Киносвидание HD
+http://live02-cdn.tv.ti.ru:80/dtv/id1262_NBN_SG--KinosvidHD_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Киносемья HD
+http://live02-cdn.tv.ti.ru:80/dtv/id1261_NBN_SG--KinosemHD_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Киносерия
+http://live02-cdn.tv.ti.ru:80/dtv/id133_NBN_SG--mnogo_tv/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Киноужас HD
+http://live02-cdn.tv.ti.ru/dtv/id1285_NBN_SG--Kinouzhas_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Кинохит HD
+http://live02-cdn.tv.ti.ru:80/dtv/id1264_NBN_SG--KinohitHD_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Конный Мир
+http://live02-cdn.tv.ti.ru:80/dtv/id1137_NBN_SG--KonnyiMir/03/plst.m3u8
+#EXTINF:-1 group-title="Информационные",Красная Линия
+http://live02-cdn.tv.ti.ru:80/dtv/id1289_NBN_SG--KrasLiniya/03/plst.m3u8
+#EXTINF:-1 group-title="Региональные",Кубань 24 Орбита
+http://live02-cdn.tv.ti.ru:80/dtv/id753_NBN_SG--Kuban24orb/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Кухня ТВ
+http://live02-cdn.tv.ti.ru:80/dtv/id1345_NBN_SG--kuhnya_tv_wflite/03/plst.m3u8
+#EXTINF:-1 group-title="Информационные",ЛДПР ТВ
+http://live02-cdn.tv.ti.ru:80/dtv/id758_NBN_SG--LDPR/03/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",Ля-Минор
+http://live02-cdn.tv.ti.ru:80/dtv/id492_NBN_SG--lyaminor/03/plst.m3u8
+#EXTINF:-1 group-title="Национальные",Майдан
+http://live02-cdn.tv.ti.ru:80/dtv/id255_NBN_SG--Maidan/03/plst.m3u8
+#EXTINF:-1 group-title="Детские",Малыш ТВ
+http://live02-cdn.tv.ti.ru:80/dtv/id445_NBN_SG--Malish/03/plst.m3u8
+#EXTINF:-1 group-title="Детские",Мама
+http://live02-cdn.tv.ti.ru:80/dtv/id254_NBN_SG--MatDitya/01/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч Боец
+http://live02-cdn.tv.ti.ru:80/dtv/id1089_NBN_SG--MatchBoec/03/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч Игра
+http://live02-cdn.tv.ti.ru:80/dtv/id474_NBN_SG--Sport/03/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч Премьер HD
+http://live02-cdn.tv.ti.ru:80/dtv/id241_NBN_SG--nf_hd/04/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч Премьер
+http://live02-cdn.tv.ti.ru:80/dtv/id131_NBN_SG--nf_sd/03/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч Страна
+http://live02-cdn.tv.ti.ru:80/dtv/id475_NBN_SG--telekanalsport/03/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч ТВ
+http://live02-cdn.tv.ti.ru:80/dtv/id166_NBN_SG--Rossia2/03/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч Футбол 1 HD
+http://live02-cdn.tv.ti.ru:80/dtv/id472_NBN_SG--NTVFutbol1/04/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч Футбол 2 HD
+http://live02-cdn.tv.ti.ru:80/dtv/id473_NBN_SG--NTVFootball2/04/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч Футбол 3 HD
+http://live02-cdn.tv.ti.ru:80/dtv/id471_NBN_SG--NTV_Futbol_3/04/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Мегафон Live 1
+http://live02-cdn.tv.ti.ru:80/dtv/id1333_NBN_SG--MegafonLive1/03/plst.m3u8
+#EXTINF:-1 group-title="Информационные",Мир 24
+http://live02-cdn.tv.ti.ru:80/dtv/id265_NBN_SG--mir24/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Мир Premium HD
+http://live02-cdn.tv.ti.ru:80/dtv/id477_NBN_SG--mirhd/04/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Мир Баскетбола
+http://live02-cdn.tv.ti.ru:80/dtv/id1140_NBN_SG--MirBasketbola/03/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",Мир
+http://live02-cdn.tv.ti.ru:80/dtv/id218_NBN_SG--Mir/03/plst.m3u8
+#EXTINF:-1 group-title="Информационные",Москва 24
+http://live02-cdn.tv.ti.ru:80/dtv/id410_NBN_SG--moskva24/03/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Моторспорт ТВ HD
+http://live02-cdn.tv.ti.ru:80/dtv/id767_NBN_SG--motorsport/04/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя Планета HD
+http://live02-cdn.tv.ti.ru:80/dtv/id667_NBN_SG--PlanetaHD/04/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя Планета
+http://live02-cdn.tv.ti.ru:80/dtv/id205_NBN_SG--MyPlannet/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Мужское Кино
+http://live02-cdn.tv.ti.ru:80/dtv/id653_NBN_SG--MuzskoeKino/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Мужской
+http://live02-cdn.tv.ti.ru:80/dtv/id370_NBN_SG--Muzhskoy/03/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",Муз ТВ
+http://live02-cdn.tv.ti.ru:80/dtv/id132_NBN_SG--muz-tv/03/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыка Первого
+http://live02-cdn.tv.ti.ru:80/dtv/id1340_NBN_SG--MuzikaPervogo/03/plst.m3u8
+#EXTINF:-1 group-title="Детские",Мульт HD
+http://live02-cdn.tv.ti.ru/dtv/id1301_NBN_SG--TlumHD_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Детские",Мультиландия
+http://live02-cdn.tv.ti.ru:80/dtv/id350_NBN_SG--multimania/03/plst.m3u8
+#EXTINF:-1 group-title="Детские",Мультимузыка
+http://live02-cdn.tv.ti.ru:80/dtv/id233_NBN_SG--Strana/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Нано HD
+http://live02-cdn.tv.ti.ru:80/dtv/id875_NBN_SG--NanoHD/04/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Нано ТВ
+http://live02-cdn.tv.ti.ru:80/dtv/id1066_NBN_SG--NanoTV/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Настоящее Страшное ТВ
+http://live02-cdn.tv.ti.ru:80/dtv/id130_NBN_SG--nstv/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Наука 2.0
+http://live02-cdn.tv.ti.ru:80/dtv/id240_NBN_SG--Nauka/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Наша Тема
+http://live02-cdn.tv.ti.ru:80/dtv/id781_NBN_SG--Nashatema/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Наше Новое Кино
+http://live02-cdn.tv.ti.ru:80/dtv/id1067_NBN_SG--NasheNovKino/03/plst.m3u8
+#EXTINF:-1 group-title="Региональные",Ника ТВ (Калуга)
+http://live02-cdn.tv.ti.ru:80/dtv/id1343_NBN_SG--NikaTV/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ностальгия
+http://live02-cdn.tv.ti.ru:80/dtv/id408_NBN_SG--Nostalgia/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",НТВ Право
+http://live02-cdn.tv.ti.ru:80/dtv/id1224_NBN_SG--NTVPravo/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",НТВ Сериал
+http://live02-cdn.tv.ti.ru:80/dtv/id1222_NBN_SG--NTVSerial/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",НТВ Стиль
+http://live02-cdn.tv.ti.ru:80/dtv/id1223_NBN_SG--NTVStyle/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",НТВ Хит
+http://live02-cdn.tv.ti.ru:80/dtv/id702_NBN_SG--NTV_HIT/03/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",НТВ
+http://live02-cdn.tv.ti.ru:80/dtv/id196_NBN_SG--NTV/03/plst.m3u8
+#EXTINF:-1 group-title="Детские",О!
+http://live02-cdn.tv.ti.ru:80/dtv/id1335_NBN_SG--O_pkvs/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",О!Кино
+http://live02-cdn.tv.ti.ru:80/dtv/id1143_NBN_SG--Okino/03/plst.m3u8
+#EXTINF:-1 group-title="Для Взрослых",О-ля-ля
+http://live02-cdn.tv.ti.ru:80/dtv/id289_NBN_SG--olala/03/plst.m3u8
+#EXTINF:-1 group-title="Региональные",ОТВ24 HD (Екатеринбург)
+http://live02-cdn.tv.ti.ru/dtv/id1182_NBN_SG--Otv24_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Открытый Мир
+http://live02-cdn.tv.ti.ru:80/dtv/id699_NBN_SG--otkritij_mir/03/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",ОТР
+http://live02-cdn.tv.ti.ru:80/dtv/id270_NBN_SG--OTR/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Охота и Рыбалка
+http://live02-cdn.tv.ti.ru:80/dtv/id1281_NBN_SG--Ohota_Rybalka/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Первый Вегетарианский
+http://live02-cdn.tv.ti.ru:80/dtv/id751_NBN_SG--1_vegetable/01/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",Первый Канал HD (OTT)
+http://live02-cdn.tv.ti.ru/dtv/id1151_NBN_SG--1TVHD_OTT_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",Первый Канал HD
+http://live02-cdn.tv.ti.ru:80/dtv/id266_NBN_SG--1TVHD/04/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",Первый Канал
+http://live02-cdn.tv.ti.ru:80/dtv/id104_NBN_SG--1TV/03/plst.m3u8
+#EXTINF:-1 group-title="Образовательные",Первый Образовательный
+http://live02-cdn.tv.ti.ru:80/dtv/id523_NBN_SG--pervobraz/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Пёс и Ко
+http://live02-cdn.tv.ti.ru:80/dtv/id742_NBN_SG--Pesikot/01/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Победа
+http://live02-cdn.tv.ti.ru:80/dtv/id1336_NBN_SG--Pobeda/03/plst.m3u8
+#EXTINF:-1 group-title="Информационные",Про Бизнес
+http://live02-cdn.tv.ti.ru:80/dtv/id277_NBN_SG--ProBusiness/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Продвижение
+http://live02-cdn.tv.ti.ru:80/dtv/id746_NBN_SG--prodvizenie/03/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",Пятница
+http://live02-cdn.tv.ti.ru:80/dtv/id127_NBN_SG--pjatnica/03/plst.m3u8
+#EXTINF:-1 group-title="Детские",Радость Моя
+http://live02-cdn.tv.ti.ru:80/dtv/id282_NBN_SG--RadostMoya/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Раз ТВ
+http://live02-cdn.tv.ti.ru:80/dtv/id1196_NBN_SG--RazTV/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ратник HD
+http://live02-cdn.tv.ti.ru:80/dtv/id937_NBN_SG--ratnic/04/plst.m3u8
+#EXTINF:-1 group-title="Информационные",РБК ТВ
+http://live02-cdn.tv.ti.ru:80/dtv/id126_NBN_SG--rbk/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Родное Кино
+http://live02-cdn.tv.ti.ru:80/dtv/id1230_NBN_SG--RodnoeKino/03/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",Россия 1 HD (OTT)
+http://live02-cdn.tv.ti.ru/dtv/id1158_NBN_SG--Rossia1HD_OTT_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",Россия 1
+http://live02-cdn.tv.ti.ru:80/dtv/id188_NBN_SG--Rossia1/03/plst.m3u8
+#EXTINF:-1 group-title="Информационные",Россия 24
+http://live02-cdn.tv.ti.ru:80/dtv/id165_NBN_SG--Rossia24/03/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",Россия К
+http://live02-cdn.tv.ti.ru:80/dtv/id163_NBN_SG--RossiaK/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Русский Бестселлер
+http://live02-cdn.tv.ti.ru:80/dtv/id124_NBN_SG--russkiy_bestseller/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Русский Детектив
+http://live02-cdn.tv.ti.ru:80/dtv/id1075_NBN_SG--RusDetektiv/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Русский Иллюзион
+http://live02-cdn.tv.ti.ru:80/dtv/id162_NBN_SG--RusIllusion/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и Сериалы",Русский Роман HD
+http://live02-cdn.tv.ti.ru:80/dtv/id232_NBN_SG--RusRoman/04/plst.m3u8
+#EXTINF:-1 group-title="Детские",Рыжий
+http://live02-cdn.tv.ti.ru:80/dtv/id383_NBN_SG--Ryzhij/03/plst.m3u8
+#EXTINF:-1 group-title="Региональные",С1 HD (Сургут)
+http://live02-cdn.tv.ti.ru/dtv/id1179_NBN_SG--c1hd_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Сарафан
+http://live02-cdn.tv.ti.ru:80/dtv/id160_NBN_SG--Sarafan/03/plst.m3u8
+#EXTINF:-1 group-title="Образовательные",Синергия ТВ
+http://live02-cdn.tv.ti.ru:80/dtv/id916_NBN_SG--synergy/03/plst.m3u8
+#EXTINF:-1 group-title="Региональные",Сочи 24 HD
+http://live02-cdn.tv.ti.ru/dtv/id1206_NBN_SG--Sochi24_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Религиозные",Союз
+http://live02-cdn.tv.ti.ru:80/dtv/id123_NBN_SG--soyuz/03/plst.m3u8
+#EXTINF:-1 group-title="Религиозные",Спас
+http://live02-cdn.tv.ti.ru:80/dtv/id122_NBN_SG--spas/03/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Старт HD
+http://live02-cdn.tv.ti.ru/dtv/id1303_NBN_SG--StartHD_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",СТС
+http://live02-cdn.tv.ti.ru:80/dtv/id121_NBN_SG--sts/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Супер
+http://live02-cdn.tv.ti.ru:80/dtv/id674_NBN_SG--super/03/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",ТВ-3
+http://live02-cdn.tv.ti.ru:80/dtv/id177_NBN_SG--tv3/03/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",ТВЦ
+http://live02-cdn.tv.ti.ru:80/dtv/id148_NBN_SG--TVC/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТДК
+http://live02-cdn.tv.ti.ru:80/dtv/id1212_NBN_SG--TDK/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Театр
+http://live02-cdn.tv.ti.ru:80/dtv/id740_NBN_SG--teatr/03/plst.m3u8
+#EXTINF:-1 group-title="Национальные",ТНВ Планета
+http://live02-cdn.tv.ti.ru:80/dtv/id150_NBN_SG--TNVPlaneta/03/plst.m3u8
+#EXTINF:-1 group-title="Национальные",ТНВ Татарстан
+http://live02-cdn.tv.ti.ru:80/dtv/id502_NBN_SG--tnvtatarstan/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",тномеР
+http://live02-cdn.tv.ti.ru:80/dtv/id696_NBN_SG--Tnomer/03/plst.m3u8
+#EXTINF:-1 group-title="Музыкальные",ТНТ Music
+http://live02-cdn.tv.ti.ru:80/dtv/id379_NBN_SG--A_One/03/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",ТНТ
+http://live02-cdn.tv.ti.ru:80/dtv/id119_NBN_SG--tnt/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://live02-cdn.tv.ti.ru:80/dtv/id258_NBN_SG--tnt_comedy/03/plst.m3u8
+#EXTINF:-1 group-title="Спортивные",Точка Отрыва
+http://live02-cdn.tv.ti.ru:80/dtv/id1051_NBN_SG--TochkaOtriva/03/plst.m3u8
+#EXTINF:-1 group-title="Детские",Уникум
+http://live02-cdn.tv.ti.ru:80/dtv/id198_NBN_SG--Detskiy/03/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Усадьба
+http://live02-cdn.tv.ti.ru:80/dtv/id351_NBN_SG--usadba/03/plst.m3u8
+#EXTINF:-1 group-title="Информационные",Хабар 24 HD
+http://live02-cdn.tv.ti.ru/dtv/id1178_NBN_SG--Khabar24_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Центральное Телевидение
+http://live02-cdn.tv.ti.ru:80/dtv/id1028_NBN_SG--CentrTV/03/plst.m3u8
+#EXTINF:-1 group-title="Эфирные",Че!
+http://live02-cdn.tv.ti.ru:80/dtv/id128_NBN_SG--perez/03/plst.m3u8
+#EXTINF:-1 group-title="Для Взрослых",Шалун
+http://live02-cdn.tv.ti.ru:80/dtv/id1027_NBN_SG--ShalunHD/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Эврика HD
+http://live02-cdn.tv.ti.ru:80/dtv/id490_NBN_SG--eurekahd/04/plst.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ю
+http://live02-cdn.tv.ti.ru:80/dtv/id115_NBN_SG--u-channel/03/plst.m3u8
